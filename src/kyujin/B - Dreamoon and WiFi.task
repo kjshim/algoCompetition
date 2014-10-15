@@ -1,0 +1,57 @@
+21 B - Dreamoon and WiFi
+6 SINGLE
+8 STANDARD
+-1
+8 STANDARD
+-1
+6
+0
+12 ++-+-
++-+-+
+
+15 1.000000000000
+
+1
+1
+10 +-+-
++-??
+
+15 0.500000000000
+
+1
+2
+8 +++
+??-
+
+15 0.000000000000
+
+1
+3
+21 +++++-----
+??????????
+-1
+1
+4
+5 +-
+??
+-1
+1
+5
+5 ++
+??
+-1
+1
+10 src/kyujin
+8 -Xmx256M
+4 Main
+12 kyujin.TaskB
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2014.10.12
+30 Codeforces Round #272 (Div. 2)
+1
+20 kyujin.MyInputReader
+19 java.io.PrintWriter
+0
+1
